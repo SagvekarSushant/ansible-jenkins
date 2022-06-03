@@ -1,6 +1,8 @@
 Ansible Role for Jenkins
 ========================
 
+Hello,
+
 Installs and completely configures Jenkins using Ansible.
 
 This role is used when you want all your Jenkins configuration in version
